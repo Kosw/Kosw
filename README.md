@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
+![](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br/>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" /></div>
