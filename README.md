@@ -36,10 +36,5 @@
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" /></div>
 
-
-  
-## ✨ Today Visitor ✨
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKosw&count_bg=%2313678A&title_bg=%23012030&icon=github.svg&icon_color=%23E7E7E7&title=viewer&edge_flat=true)](https://github.com/Kosw)
   
 </div>
