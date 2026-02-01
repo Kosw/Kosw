@@ -1,40 +1,40 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Kosw's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-## ✨ BOJ RANK ✨
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Kosw's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" alt="Kosw's Github" />
+</div>
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ BOJ RANK ✨ </h2>
+    <a href="https://solved.ac/kosw/">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kosw" alt="Solved.ac Profile" />
+    </a>
+</div>
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ GIT STATS ✨ </h2>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kosw&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" />
+  </div>
+</div>
+</div><br>
 
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kosw)](https://solved.ac/kosw/)
-
-
-
-## ✨ GIT STATS ✨
-
-
-<br />
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kosw&show_icons=true&theme=tokyonight)
-  
-## ✨ Most Language ✨
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosw&layout=compact&theme=tokyonight)
-
-
-  
-## ✨ Stack ✨
-
-<div>
-  
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<br/>
+ <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Most Language ✨ </h2>
+    
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center; margin-top: 20px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kosw&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </div>
 </div>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" /></div>
-
-  
+ <div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Stack ✨ </h2>
+    <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 5px;">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-F68212?style=for-the-badge&logo=CSS3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+    </div>
 </div>
+
