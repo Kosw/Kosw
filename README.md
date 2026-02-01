@@ -1,5 +1,5 @@
 <div align="center">
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Kosw's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 ## ✨ BOJ RANK ✨
 
   
@@ -12,11 +12,11 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosw&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kosw&show_icons=true&theme=tokyonight)
   
 ## ✨ Most Language ✨
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosw&layout=compact)](https://github.com/Kosw/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosw&layout=compact&theme=tokyonight)
 
 
   
